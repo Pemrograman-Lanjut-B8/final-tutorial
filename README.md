@@ -43,3 +43,8 @@ https://www.canva.com/design/DAGGJHFYgN4/Eo3GXgRR50zZWQCt0AkjQQ/edit
 **Review-Rating Diagram**
 <br></br>
 ![review](images/ReviewRating.png)
+
+**Cart-Checkout Diagrams**
+<br></br>
+![CartCheckout](images/uml_cartcheckout.png)
+![CartItems](images/uml_cartitems.png)
